@@ -20,7 +20,7 @@
 <!-- <hr>
 <p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aadhi-prem&theme=synthwave&show_icons=true" alt="aadhi-prem" /> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=aadhi-prem&theme=synthwave&show_icons=true&layout=compact" alt="aadhi-prem" /></p> -->
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; gap: 0px;">
+<div style="display: flex; justify-content: space-between; align-items: center;">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aadhi-prem&theme=synthwave&show_icons=true" alt="aadhi-prem" style="width: auto; height: 180px; margin: 10px;">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=aadhi-prem&theme=synthwave&show_icons=true&layout=compact" alt="aadhi-prem" style="width: auto; height: 180px; margin: 10px;">
 </div>
